@@ -20,17 +20,3 @@
 
 
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-
-
-<h2> Github Stats </h2>
-<div>
-  <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=albertsalles4&column=7&margin-w=15&margin-h=15&theme=onedark"/>
-  </a>
-  </p>
-</div>
-<br />
-<div align="center">
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=albertsalles4&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
