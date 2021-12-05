@@ -6,6 +6,9 @@
 - ⚡ Fun fact: I like to explore Open Source projects.
 
 <h1>About Me</h1>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertsalles4&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <h3>Languages</h3>
 
 
@@ -22,4 +25,4 @@
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/albertsalles4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/albert-salles/)  
+[<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/albert-salles/)  
