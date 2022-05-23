@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Albert Sallés
 
-- 🏋️‍♂️ I'm the co-founder of @elKaribu.
-- 🔭 I’m currently working as a Software Engineer at Mosaic Factor.
+- 🏋️‍♂️ I'm the co-founder of [@elKaribu](https://github.com/elkaribu).
+- 🔭 I’m currently working as a Software Engineer at [Mosaic Factor](https://mosaicfactor.com/).
 - 👯 I’m looking to collaborate on Open Source projects that contribute to the improvement of the world.
 - 📫 How to reach me: albertsalles4@gmail.com
 - ⚡ Fun fact: I like to explore Open Source projects.
