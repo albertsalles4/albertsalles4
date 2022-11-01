@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Albert Sallés
 
 - 🔭 I’m currently working as a Software Engineer at [Mosaic Factor](https://mosaicfactor.com/).
+- 🤓 I am passionate about AI and Data Science. 
 - 👯 I’m looking to collaborate on Open Source projects that contribute to the improvement of the world.
 - ⚡ Fun fact: I like to explore Open Source projects.
 
@@ -14,6 +15,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Matlab" src="https://img.shields.io/badge/matlab-EDB120.svg?&style=for-the-badge&logo=matlab&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 <h3>Frameworks & Services</h3>
+
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/github_actions-2088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white"/>
 
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
